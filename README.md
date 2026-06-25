@@ -58,11 +58,16 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddy524&show_icons=true)
-## 📊 GitHub Stats
-
-![Laxmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddy524&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddy524&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=reddy524&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddy524&theme=tokyo-night)
+
+---
+
 
 ---
 
