@@ -43,22 +43,43 @@
 
 ## 📂 Projects
 
-### 🌐 CodNest Blog Website
-- Developed a responsive blog website using HTML and CSS.
-- Implemented semantic HTML elements like header, nav, main, article, aside, and footer.
+### 🎯 Personalized Learning Path Generator
+- Developed an intelligent system that generates customized learning paths for students based on their skills, interests, and learning goals.
+- Analyzes user performance and recommends relevant courses and topics.
+- Improves learning efficiency through personalized recommendations.
+- Technologies: Java, Spring Boot, MySQL, HTML, CSS, JavaScript.
 
-### 🎓 Student Management System
-- Java-based application for managing student records.
-- CRUD operations using MySQL database.
+### 💰 Dynamic Pricing Module
+- Built a pricing engine that adjusts product or service prices dynamically based on demand, availability, and business rules.
+- Automates price calculations to maximize revenue and improve customer experience.
+- Supports real-time price updates and reporting.
+- Technologies: Java, Spring Boot, MySQL.
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddy524&show_icons=true)
+## 📊 GitHub Stats
+
+![Laxmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddy524&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddy524&layout=compact)
+
+---
+
+## 🎯 Career Objective
+
+To build innovative software solutions, continuously improve my technical skills, and contribute to impactful projects as a Java Full Stack Developer.
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/reddy524
-- LinkedIn: Add your LinkedIn profile here
+📧 Email: your-email@example.com
+
+🐱 GitHub: https://github.com/reddy524
+
+💼 LinkedIn: Add your LinkedIn Profile
+
 
 ---
 
